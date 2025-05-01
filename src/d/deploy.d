@@ -1,3 +1,5 @@
+module ndsp;
+
 import std.stdio;
 
 void deployPackage(string packageName) {
